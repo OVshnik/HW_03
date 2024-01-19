@@ -50,3 +50,20 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/UserProfile/Task 5.6.1/App.config
+/UserProfile/.vs/UserProfile/v17
+/.vs
+*.sln
+/UserProfile/Task 5.6.1/obj/Debug
+/UserProfile/Task 5.6.1/obj/Release
+
+/UserProfile/Task 5.6.1/Properties/AssemblyInfo.cs
+/UserProfile/Task 5.6.1/Task 5.6.1.csproj
+/HW-03/HW-03.csproj
+/HW-03/App.config
+/HW-03/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/HW-03/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+/HW-03/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/HW-03/obj/Debug/HW-03.csproj.AssemblyReference.cache
+/HW-03/obj/Release/HW-03.csproj.AssemblyReference.cache
+/HW-03/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
